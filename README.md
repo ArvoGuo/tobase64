@@ -11,9 +11,10 @@ TO BASE64
 
 ## usage
 
-```
+```js
 // bash
 $/xxx/dir/path: tobase64 /User/download/icon.png
 
-// now result is in your clipboard, you can use `command + v` to paste
 ```
+
+### Now result is in your clipboard, you can use `command + v` to paste
