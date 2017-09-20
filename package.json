@@ -1,6 +1,6 @@
 {
   "name": "tobase64",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "jpg,png,font,woff... to base64",
   "main": "index.js",
   "bin": {
